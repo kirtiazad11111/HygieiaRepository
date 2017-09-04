@@ -1,0 +1,8 @@
+/home/kirtiazad11111/Hygieia/collectors/cloud/aws/src/main/java/com/capitalone/dashboard/collector/AWSCloudClient.java
+/home/kirtiazad11111/Hygieia/collectors/cloud/aws/src/main/java/com/capitalone/dashboard/collector/AWSCloudSettings.java
+/home/kirtiazad11111/Hygieia/collectors/cloud/aws/src/main/java/com/capitalone/dashboard/repository/package-info.java
+/home/kirtiazad11111/Hygieia/collectors/cloud/aws/src/main/java/com/capitalone/dashboard/Application.java
+/home/kirtiazad11111/Hygieia/collectors/cloud/aws/src/main/java/com/capitalone/dashboard/collector/DefaultAWSCloudClient.java
+/home/kirtiazad11111/Hygieia/collectors/cloud/aws/src/main/java/com/capitalone/dashboard/collector/AWSCloudCollector.java
+/home/kirtiazad11111/Hygieia/collectors/cloud/aws/src/main/java/com/capitalone/dashboard/collector/AWSCloudCollectorTask.java
+/home/kirtiazad11111/Hygieia/collectors/cloud/aws/src/main/java/com/capitalone/dashboard/repository/AWSConfigRepository.java
